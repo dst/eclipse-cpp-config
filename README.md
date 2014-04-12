@@ -36,3 +36,4 @@ Instructions:
  
 ### TODO templates ###
 - sort for collection
+- size: int n = $cursor.size();
