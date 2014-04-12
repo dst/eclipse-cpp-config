@@ -1,4 +1,5 @@
-# eclipse-cpp-config: Eclipse configuration for C++ #
+# eclipse-cpp-config #
+Eclipse configuration for C++
 
 ## Code formatter ##
 My custom code formatter for C++. Formatter is located in Preferences -> C++ -> Code Style ->  Formatter.
